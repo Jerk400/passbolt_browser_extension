@@ -19,7 +19,7 @@
     "ip-regex": "^4.3.0",
     "jssha": "~3.2.0",
     "kdbxweb": "2.1.1",
-    "locutus": "~2.0.9",
+    "locutus": "~2.0.32",
     "openpgp": "5.2.1",
     "papaparse": "^5.2.0",
     "passbolt-styleguide": "^3.12.1",
